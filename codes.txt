@@ -1,0 +1,15 @@
+h1-h6 : fejléc
+a href="index.html" : link adott mappából
+a href="\index.html" : link fő mappából
+a target="blank" : új fülön nyitja a linket
+p : sor
+ul : számozatlan lista
+li : lista sorolás
+ol : számozott lista
+img src : kép beillesztés
+img width : kép méret
+table>tr>td : táblázat
+tbody : táblázat test
+Thead : táblázat fej
+td rowspan=" "  : sor összevonás
+td colspan=" "  : sor nyújtás
